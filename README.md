@@ -7,11 +7,17 @@ Welcome to the **Awesome GPTs** repository! This collection features a diverse a
 
 ## Table of contents
 -[Creative Writing](#writing)
+
 -[Fun and Games](#fun)
+
 -[Wellbeing](#wellbeing)
+
 -[Programming](#programming)
+
 -[Tools](#tools)
+
 -[Educational](#educational)
+
 -[Contributing](#contributing)
 
    --------------------
