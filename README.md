@@ -88,6 +88,10 @@ Welcome to the **Awesome GPTs** repository! This collection features a diverse a
 
 	Example Prompt: *Guide me to the treasure.*
 
+- [**Text My Pet GPT**](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet) - Text your favorite pet after answering 10 short questions about their activities.
+
+	Example Prompt: *What are you up to at home right now?*
+
 ### Wellbeing
 **[^        back to top        ^](#awesome-gpts)**
   
