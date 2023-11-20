@@ -53,7 +53,7 @@ Welcome to the **Awesome GPTs** repository! This collection features a diverse a
 - [**Exaggerator GPT**](https://chat.openai.com/g/g-E46C1mfLr-exaggerator-gpt) - Gives exaggerated, over-the-top responses to mundane questions. 
 
 	Example Prompt: *What's a pencil?*	
-- [**Jokester GPT**](https://chat.openai.com/g/g-LdGAkFWrL-jokester-gpt) - A master of humor, Jokester GPT generates jokes, puns, and witty comebacks, suitable for lightening the mood or adding humor to a conversation.
+- [**Jokester GPT**](https://chat.openai.com/g/g-LdGAkFWrL-jokester-gpt) - A master of humor, Jokester GPT generates jokes, puns, and witty comebacks, suitable for lightning the mood or adding humor to a conversation.
 
 	Example Prompt: *How to change a tyre in a bike?*
 
